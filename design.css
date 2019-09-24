@@ -1,0 +1,125 @@
+body
+{
+    font-family: Arial,sans-serif;
+}
+
+header
+{
+    display: flex;
+    font-size: 13px;
+    height: 30px;
+    width: 244.76px;
+    text-align: right;
+    justify-content: center;
+    padding: 0px 30px;
+    color: #222;
+
+}
+
+
+
+.googleplus
+{
+    display: inline-block;
+    vertical-align: middle;
+    height: 30px;
+    width: 30px;
+    background-image: url(https://ssl.gstatic.com/gb/images/i2_2ec824b0.png);
+    background-position-x: -132px;
+    background-position-y: -38px;
+    background-size: 528px 68px;
+}
+
+.connexion
+{
+    border: 1px solid #4285f4;
+    border-radius: 2px;
+    font-weight: bold;
+    background: #4285f4;
+    display: inline-block;
+}
+
+.logo-zone
+{
+    height: 233px;
+    width: 980px;
+    margin-top: 89px;
+    text-align: center;
+}
+
+.logo
+{
+    height: 92px;
+    width: 272px;
+    padding-top: 109px;
+    text-align: center;
+}
+
+.search-zone
+{
+    padding: 6px 0px 0px 12px;
+    width: 484px;
+    height: 46px;
+    display: block;
+    text-align: center;
+
+}
+
+.search-bar
+{
+    display: flex;
+    flex: 1;
+    padding: 5px 8px 0px 14px;
+    background: #ffffff;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    height: 44px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.input
+{
+
+}   
+
+.button-area
+{
+    display: flex;
+    text-align: center;
+    height: 58px;
+    width: 487px;
+
+}
+
+
+.button
+{
+    height: 36px;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0 16px;
+}
+
+.country
+{
+    font: 13px;
+    margin-left: 30px;
+    text-align: left;
+    color:rgba(0,0,0,.54);
+}   
+
+.footer-content
+{
+    display: inline-block;
+    color: #5f6368;
+    padding-left: 27px;
+    margin: 0;
+    font-size: small;
+}
